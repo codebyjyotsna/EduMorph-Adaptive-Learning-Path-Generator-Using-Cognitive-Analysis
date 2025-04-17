@@ -1,0 +1,6 @@
+EduMorph/
+├── frontend/               # React/Next.js frontend
+├── backend/                # Node.js/Django backend
+├── ai-engine/              # AI/ML models & scripts
+├── database/               # Firebase/MongoDB config
+└── README.md
